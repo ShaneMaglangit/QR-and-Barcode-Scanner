@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QR and Barcode Scanner</string>
+    <string name="text_result">Focus to scan your code</string>
+    <string name="barcode_preview_content_description">Barcode Preview</string>
+    <string name="button_save">Save</string>
+    <string name="button_history">View History</string>
+</resources>
