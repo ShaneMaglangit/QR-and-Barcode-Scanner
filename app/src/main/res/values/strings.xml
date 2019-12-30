@@ -4,4 +4,5 @@
     <string name="barcode_preview_content_description">Barcode Preview</string>
     <string name="button_save">Save</string>
     <string name="button_history">View History</string>
+    <string name="text_result_title">Result</string>
 </resources>
